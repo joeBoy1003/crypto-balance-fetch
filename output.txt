@@ -1,7 +1,0 @@
-Bitcoin Address: bc1psn4s9nqfg8lr7k8vszxxtcgm8fgh6gdyyvkpl85xxzage52y9yvqqrkpgl, Balance: 8411095 satoshis ($8139.66896435)
-Bitcoin Address: 3KJ7F5ChEwuxZqN1ExnkHK6CC98ZG5zVLt, Balance: 6433828 satoshis ($6226.20837044)
-Bitcoin Address: bc1qnp58xgtytlz3muj3m8cdlay2dsr3a7nhpmsj677v76l22ee9xcfqry54wz, Balance: 1313040 satoshis ($1270.6681992000001)
-Bitcoin Address: bc1qyjrsjy0t9pgh50syuydrs9ux5u2vsncaeyan4k, Balance: 2065966 satoshis ($1999.29727718)
-Bitcoin Address: bc1ptwakucnw0lulsza3ru7c2uag2tnxvd5ujjrwla0nxaz9a74akrkqzj675h, Balance: 4463893 satoshis ($4319.8431728900005)
-Litecoin Address: ltc1qgj2zkwzafl93y0jsh3cwqum722ydqapnuunqpd, Balance: 46.61406698 LTC ($5903.2054423472)
-Litecoin Address: M8EBVmGNdUdtDfx2vHPnJxk4iGYkyWHKc7, Balance: 3.79057748 LTC ($480.0387320672)
